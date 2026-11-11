@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"title": "E-Commerce API Documentation",
+		"description": "A comprehensive, interactive RESTful API designed to power scalable e-commerce applications. It provides standardized endpoints for managing product catalogs, user authentication, shopping carts, order processing, and payment integrations with structured JSON responses and error handling.",
+		"image": "/images/E-commerce-API-documentation.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Course Booking API Documentation",
+		"description": "The Course Booking API allows developers to integrate course scheduling, searching, booking, and payment processing directly into their applications. This RESTful API is designed to manage the full lifecycle of a course, from initial setup to user enrollment.",
+		"image": "/images/Course-booking-API-Documentation.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Course Booking APP",
+		"description": "A course booking app allows students, professionals, or hobbyists to discover, enroll in, and schedule educational classes. These platforms handle everything from self-paced online courses and live virtual bootcamps to in-person workshops (such as fitness classes, driving lessons, or cooking seminars).",
+		"image": "/images/Course-booking-app.webp"
+	},
+	{
+		"id": 4,
+		"title": "E-commerce APP",
+		"description": "An E-commerce app is a mobile or web software application designed to facilitate online buying and selling. It acts as a digital storefront where customers can browse product catalogs, view detailed specifications, select items, and complete secure purchases using integrated payment systems.",
+		"image": "/images/E-commerce-APP.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Airline Booking System Mockup",
+		"description": "An airline booking system mockup design is a visual blueprint or UI/UX prototype that illustrates how users interact with a flight reservation platform. It maps out the visual hierarchy, user interface elements, and layout components across desktop or mobile screens before any actual coding takes place.",
+		"image": "/images/Airline-booking-system-mockup.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Airline Booking System Prototype",
+		"description": "An airline booking system prototype design is an interactive, high-fidelity visual model of a flight reservation platform. It bridges the gap between static mockups and a functional web or mobile app, allowing stakeholders and portfolio reviewers to experience the actual user journey, click through navigation paths, and evaluate the usability of the interface.",
+		"image": "/images/Airline-booking-system-prototype.png"
+	},
+	{
+		"id": 7,
+		"title": "Short Course Capstone",
+		"description": "A short course capstone project is a culminating academic or professional assignment designed to let learners apply the comprehensive skills, tools, and concepts they have learned throughout a focused, intensive program. Unlike standard homework or quizzes, a capstone mirrors real-world challenges, requiring students to plan, execute, and present a complete project from scratch.",
+		"image": "/images/Short-course-capstone.jpg"
+	}
+]
